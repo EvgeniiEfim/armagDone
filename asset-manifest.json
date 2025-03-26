@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/armagDone/static/css/main.f129ed00.css",
+    "main.js": "/armagDone/static/js/main.280b3672.js",
+    "static/media/space.png": "/armagDone/static/media/space.209427888f57b5eb7c26.png",
+    "static/media/asteroid.png": "/armagDone/static/media/asteroid.67b0c58be67884fe363a.png",
+    "index.html": "/armagDone/index.html",
+    "main.f129ed00.css.map": "/armagDone/static/css/main.f129ed00.css.map",
+    "main.280b3672.js.map": "/armagDone/static/js/main.280b3672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f129ed00.css",
+    "static/js/main.280b3672.js"
+  ]
+}
