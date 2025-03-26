@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbc73944-0b86-4e18-baf8-5cceebe32942" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/armaggedon-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/armaggedon-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armaggedon-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/armaggedon-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armaggedon-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/armaggedon-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rwZC2LLf35jT1tE5yr2L7XnrAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Jest.[components] Header.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mel/Desktop/project-bolt-sb1-kdvr6ycn",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/Users/mel/WebstormProjects/web_2/armaggedon-app/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\mel\\WebstormProjects\\web_2\\armaggedon-app\\node_modules\\prettier",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "C:\\Users\\mel\\WebstormProjects\\web_2\\armaggedon-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components\AsteroidCard" />
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components\AsteroidCard\AsteriodCardAction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components\Bottom" />
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components" />
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components\AsteroidCard\AsteroidCardContent" />
+      <recent name="C:\Users\mel\WebstormProjects\web_2\armaggedon-app\src\components\AsteroidCard\DinoImage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="[components] Header" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/armaggedon-app/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/armaggedon-app" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/armaggedon-app/src/components/header/Header.unit.test.tsx" />
+      <test-names>
+        <test-name value="[components] Header" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/armaggedon-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="Jest.[components] Header" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc73944-0b86-4e18-baf8-5cceebe32942" name="Changes" comment="" />
+      <created>1737471967134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737471967134</updated>
+      <workItem from="1737471968305" duration="11310000" />
+      <workItem from="1737560331832" duration="13740000" />
+      <workItem from="1737646682258" duration="9349000" />
+      <workItem from="1737737370276" duration="14433000" />
+      <workItem from="1737826577110" duration="13655000" />
+      <workItem from="1737887494285" duration="17577000" />
+      <workItem from="1738003753951" duration="3459000" />
+      <workItem from="1738073493676" duration="7499000" />
+      <workItem from="1738159862975" duration="3835000" />
+      <workItem from="1738340900661" duration="3677000" />
+      <workItem from="1738505253888" duration="14909000" />
+      <workItem from="1738604062666" duration="774000" />
+      <workItem from="1738607862543" duration="5058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
